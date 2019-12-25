@@ -1,0 +1,4 @@
+typedef 旧 新
+atof 字符串转浮点数stdlib.h
+sprintf（新串，旧串）用来初始化新串，旧串按照标准输出格式
+const修饰指针，前面内容不变，后面地址不变 const int * /int const *
